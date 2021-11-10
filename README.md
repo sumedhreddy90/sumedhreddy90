@@ -1,4 +1,4 @@
-# Hi there. I am Sumedh RK 👋. Someday on Mars?   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sumedhreddy90.repoName)
+# Hi there. I am Sumedh RK 👋. A day on Mars?   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sumedhreddy90.repoName)
 
 - 🔭 I am currently a Robotics Masters Student at University of Maryland College Park
 - ⚡  Experienced Full Stack Senior Software Developer.
