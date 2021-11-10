@@ -2,7 +2,7 @@
 
 - 🔭 I am currently a Robotics Masters Student at University of Maryland College Park
 - ⚡  Experienced Full Stack Senior Software Developer.
-- 🌱 Currently learning : ROS, Moveit 2, Gazebo, NLP, DeepLearning.
+- 🌱 Currently learning : ROS2, Moveit 2, Gazebo, NLP, DeepLearning.
 - 💬 Ask me about: C#, Python, ROS, Robotic Applications, Full stack Mobile Applications.
 - 👯 I’m looking to collaborate on Robotics Applications.
 - 🤔 I’m looking for help with Entreprenurship and Product development.
@@ -12,6 +12,7 @@
 ## Tech Stack
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
