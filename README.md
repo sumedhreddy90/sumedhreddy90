@@ -30,7 +30,7 @@
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  
  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-Donate/ Send Etherum for Eradiccating poverty at Address: 0xA6a4D24D1d126FbDCf48a90C90989282201cBfED
+Donate/ Send Etherum for Eradicating poverty at Address: 0xA6a4D24D1d126FbDCf48a90C90989282201cBfED
 
 
 
