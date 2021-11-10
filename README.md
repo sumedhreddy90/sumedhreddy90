@@ -29,8 +29,8 @@
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  
- ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)Donate Etherum for Eradiccating poverty
- Address: 0xA6a4D24D1d126FbDCf48a90C90989282201cBfED
+ ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+Donate/ Send Etherum for Eradiccating poverty at Address: 0xA6a4D24D1d126FbDCf48a90C90989282201cBfED
 
 
 
