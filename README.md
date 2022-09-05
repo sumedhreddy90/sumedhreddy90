@@ -1,9 +1,9 @@
 # Hi there. I am Sumedh RK 👋. A day on Mars?   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sumedhreddy90.repoName)
 
-- 🔭 I am currently a Robotics Masters Student at University of Maryland College Park
-- ⚡  Experienced Full Stack Senior Software Developer.
-- 🌱 Currently learning : ROS2, Moveit 2, Gazebo, NLP, DeepLearning.
-- 💬 Ask me about: C#, Python, ROS, Robotic Applications, Full stack Mobile Applications.
+- 🔭 I am currently a Robotics Masters Student at University of Maryland College Park. Ex-SWE Intern at Open Robotics
+- ⚡  Experienced Full Stack Senior Software Developer. Ex-Microsoft, Infosys and SuneraTech
+- 🌱 Currently learning : Data Visulaziation, Computer Vision and DeepLearning.
+- 💬 Ask me about: C#, Python, ROS2, Robotic Applications, Full stack Mobile Applications.
 - 👯 I’m looking to collaborate on Robotics Applications.
 - 🤔 I’m looking for help with Entreprenurship and Product development.
 - 😄 Pronouns: He/Him.
