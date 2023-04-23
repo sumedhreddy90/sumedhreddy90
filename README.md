@@ -1,6 +1,7 @@
 # Hi there. I am Sumedh RK 👋. A day on Mars?   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sumedhreddy90.repoName)
 
-- 🔭 Experienced Machine Learning Engineer with Master's degree in Robotics from Unviersity of Maryland. Ex-SWE at Open Robotics, Microsoft, Infosys, Suneratech
+- 🔭 Experienced Machine Learning Engineer with Master's degree in Robotics from Unviersity of Maryland. 
+- 👻 Ex-SWE at Open Robotics, Microsoft, Infosys, Suneratech
 - 🌱 Currently learning : NLP, Generative AI, Micro-ROS, Edge AI
 - 💬 Ask me about: C++, Python, ROS 2, Machine Learning, Deep Learning, Computer vision, Advanced Robotics , Full stack Applications.
 - 👯 I’m looking to collaborate on Robotics Applications.
