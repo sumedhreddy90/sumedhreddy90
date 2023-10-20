@@ -3,8 +3,8 @@
 - 🔭 Experienced Robotics and Machine Learning Engineer with Master's degree in Robotics from Unviersity of Maryland. 
 - 👻 Ex-SWE at Open Robotics, Microsoft, Infosys, Suneratech
 - 🌱 Currently learning : NLP, Generative AI, Edge AI
-- 💬 Ask me about: C++, Python, ROS 2, Micro-ROS,  Machine Learning, Deep Learning, Computer vision, Advanced Robotics , Full stack Applications.
-- 👯 I’m looking to collaborate on Robotics Applications.
+- 💬 Ask me about: C++, Python, CUDA, Tensor RT, Nvidia Tao, ROS 2, Micro-ROS,  Machine Learning, Deep Learning, Computer vision, Advanced Robotics.
+- 👯 I’m looking to collaborate on Deep Learning based solutions and Robotics Applications.
 - 🤔 I’m looking for help with Entreprenurship and Product development.
 - 😄 Pronouns: He/Him.
 - 📫 How to reach me: <a href="mailto:sumedhreddykoppula@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/sumedh-reddy/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://stackoverflow.com/users/9892425/sumedh-reddy?tab=profile"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
